@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raajveer-55
 - 👀 I’m interested in Learning new things
 - 🌱 I’m currently pursuing degree in B.Tech Data Science
-- 💞️ I’m looking to collaborate on project realted to data science projects
+- 💞️ I’m looking to collaborate on project realted to data science
 
 
 <!---
